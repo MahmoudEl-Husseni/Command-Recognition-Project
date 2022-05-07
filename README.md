@@ -25,6 +25,10 @@ A Deep Learning project that recognizes some commands (go, stop, right, left, up
 
 9- tensorflow (keras)
 
+-- dataset
+
+https://dagshub.com/kingabzpro/Speech_Commands_Dataset
+
 ### Hardware Requirments
 -- GPU for training model (not required)
 
