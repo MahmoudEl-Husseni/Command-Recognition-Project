@@ -3,6 +3,7 @@ A Deep Learning project that recognizes some commands (go, stop, right, left, up
 
 ### Used technologies:
 -- Regarding to many papers about audio recognition, researchers figured out that CNN is the best Neural Network used in this field,
+
 -- I used melspectrogram-based model as it return the best accuracy after training on my data, raw signal, mfcc were put in consider also.
 
 
@@ -10,6 +11,7 @@ A Deep Learning project that recognizes some commands (go, stop, right, left, up
 
 ### Software requirements
 -- Python programing language
+
 -- used libraries:
 1- numpy
 2- pandas
@@ -25,12 +27,15 @@ A Deep Learning project that recognizes some commands (go, stop, right, left, up
 
 ### Hardware Requirments
 -- GPU for training model (not required)
+
 --  At least 4 Gb ram to load data
 
 
 # How to use this project
 -- First, you need to meet SW requirments
+
 -- Second, run th main.py file
+
 -- Last open the website locally on any browser.
 
 
@@ -48,7 +53,9 @@ A Deep Learning project that recognizes some commands (go, stop, right, left, up
 ### Future updates
 
 For future work I intend to use more reliable dataset to have better accuracy,
+
 I need to increase the number of commands to recognize, 
+
 I need to use better way of deployment rather than web deployment that is not the best method for command recognition applications.
 
 # Team members
