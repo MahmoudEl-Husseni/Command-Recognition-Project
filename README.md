@@ -13,17 +13,7 @@ A Deep Learning project that recognizes some commands (go, stop, right, left, up
 -- Python programing language
 
 -- used libraries:
-1- numpy
-2- pandas
-3- matplotlib
-4- seaborn
-
-5- Ipython
-6- librosa
-7- wave
-8- pyaudio
-
-9- tensorflow (keras)
+>1- numpy 2- pandas 3- matplotlib 4- seaborn</br> 5- Ipython 6- librosa 7- wave 8- pyaudio</br>9- tensorflow (keras)</br>
 
 -- dataset
 
@@ -44,13 +34,13 @@ https://dagshub.com/kingabzpro/Speech_Commands_Dataset
 
 
 # Credits
--- Audio Recognition using Mel Spectrograms and Convolution Neural Networks,
+*Audio Recognition using Mel Spectrograms and Convolution Neural Networks,
    Boyang Zhang Jared Leitner Sam Thornton Dept. of Electrical and Computer Engineering, University of California, San Diego
 
--- Word Recognition For Color Classification Using Convolutional Neural Network
+*Word Recognition For Color Classification Using Convolutional Neural Network
    Dyah Ayu Anggreini Tuasikal, M.B.Nugraha, Emilio Yudhatama, Ahmad Syahril Muharom, Megantara Pura
 
---  [Valerio Velardo - The Sound of AI]  (https://www.youtube.com/c/ValerioVelardoTheSoundofAI) youtube channel 
+*[Valerio Velardo - The Sound of AI](https://www.youtube.com/c/ValerioVelardoTheSoundofAI) youtube channel 
 	
 
 
@@ -63,6 +53,5 @@ I need to increase the number of commands to recognize,
 I need to use better way of deployment rather than web deployment that is not the best method for command recognition applications.
 
 # Team members
--- Mahmoud Elhusseni
-
--- Osama Hussein
+* Mahmoud Elhusseni</br>
+* Osama Hussein
